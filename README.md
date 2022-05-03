@@ -30,7 +30,7 @@ This project was made for learning purposes.
 
 `$ npm install`
 
-6. When installation will be finished, start npx and wait till app will be opened:
+6. When installation will be finished, start npm and wait till app will be opened:
 
 `$ npm start`
 
