@@ -32,7 +32,7 @@ This project was made for learning purposes.
 
 6. When installation will be finished, start npx and wait till app will be opened:
 
-`$ npx start`
+`$ npm start`
 
 ### Author
 
