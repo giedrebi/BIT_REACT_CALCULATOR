@@ -4,13 +4,13 @@ This project was made for learning purposes.
 
 ## About project
 
-Calculator have 4 functions:
+* Calculator have 4 functions:
     - Sum
     - Substraction
     - Multiply
     - Divide
 
-Made with React (style with CSS).
+* Made with React (style with CSS).
 
 ## Installiation
 
